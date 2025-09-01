@@ -5,3 +5,4 @@
 *.terraform.*
 *.pem
 credentials.json
+*.DS_Store
